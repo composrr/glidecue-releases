@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.2.0/GlideCue-Setup-1.2.0.exe",
-  "notes": "Countdown color warnings (amber near target, red past zero with a flash then count-up), custom color thresholds, talent + preview match the operator's colored clock, tap-to-type exact font/speed/target values, Timer Console button toggles closed, and true borderless fullscreen on a second display.",
+  "version": "1.2.1",
+  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.2.1/GlideCue-Setup-1.2.1.exe",
+  "notes": "True fullscreen on a second monitor (no taskbar, no border, edge-to-edge) and a matching top fade on the controller preview so it looks like the talent screen.",
   "mandatory": false
 }
