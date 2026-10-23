@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.2.2/GlideCue-Setup-1.2.2.exe",
-  "notes": "Phone timer controls work over the cloud, the script never stops the clock, desktop New Take without Play, and a new talent Total display.",
+  "version": "1.3.0",
+  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.3.0/GlideCue-Setup-1.3.0.exe",
+  "notes": "Timer redesign on desktop and phone: all readouts side by side, clock controls on the main screen, + Take replaces End Take, new phone Talent tab and target sheet.",
   "mandatory": false
 }
