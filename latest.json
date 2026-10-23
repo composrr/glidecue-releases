@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.2.1/GlideCue-Setup-1.2.1.exe",
+  "version": "1.2.2",
+  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.2.2/GlideCue-Setup-1.2.2.exe",
   "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.2.1/GlideCue-1.2.1.dmg",
-  "notes": "True fullscreen on a second monitor (no taskbar, no border, edge-to-edge) and a matching top fade on the controller preview so it looks like the talent screen.",
+  "notes": "Phone timer controls work over the cloud, the script never stops the clock, desktop New Take without Play, and a new talent Total display.",
   "mandatory": false
 }
