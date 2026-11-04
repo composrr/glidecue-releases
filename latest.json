@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.1/GlideCue-Setup-1.4.1.exe",
-  "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.1/GlideCue-1.4.1.dmg",
-  "notes": "Mac updates now install themselves, like on Windows.",
+  "version": "1.4.2",
+  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.2/GlideCue-Setup-1.4.2.exe",
+  "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.2/GlideCue-1.4.2.dmg",
+  "notes": "Sync and sign-in fixes: synced scripts no longer go missing on one computer, and sign-in says whether the email or the password is wrong.",
   "mandatory": false
 }
