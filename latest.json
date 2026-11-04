@@ -1,6 +1,7 @@
 {
   "version": "1.4.3",
   "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.3/GlideCue-Setup-1.4.3.exe",
+  "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.3/GlideCue-1.4.3.dmg",
   "notes": "Cleanup release: loading a script takes you back to the Controller, every page has a Back button, Home keeps the session running, and unsaved work is protected.",
   "mandatory": false
 }
