@@ -1,7 +1,6 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.2/GlideCue-Setup-1.4.2.exe",
-  "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.2/GlideCue-1.4.2.dmg",
-  "notes": "Sync and sign-in fixes: synced scripts no longer go missing on one computer, and sign-in says whether the email or the password is wrong.",
+  "version": "1.4.3",
+  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.3/GlideCue-Setup-1.4.3.exe",
+  "notes": "Cleanup release: loading a script takes you back to the Controller, every page has a Back button, Home keeps the session running, and unsaved work is protected.",
   "mandatory": false
 }
