@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.0/GlideCue-Setup-1.4.0.exe",
-  "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.0/GlideCue-1.4.0.dmg",
-  "notes": "Sign in and your scripts follow you: My Scripts on every computer, plus a shared team library.",
+  "version": "1.4.1",
+  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.1/GlideCue-Setup-1.4.1.exe",
+  "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.1/GlideCue-1.4.1.dmg",
+  "notes": "Mac updates now install themselves, like on Windows.",
   "mandatory": false
 }
