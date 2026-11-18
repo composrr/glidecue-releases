@@ -1,7 +1,6 @@
 {
-  "version": "1.4.3",
-  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.3/GlideCue-Setup-1.4.3.exe",
-  "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.3/GlideCue-1.4.3.dmg",
-  "notes": "Cleanup release: loading a script takes you back to the Controller, every page has a Back button, Home keeps the session running, and unsaved work is protected.",
+  "version": "1.4.4",
+  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.4/GlideCue-Setup-1.4.4.exe",
+  "notes": "Cloud fix: GlideCue no longer uses up the free cloud allowance when it's left open with nobody watching. Also a Controller clock that keeps real time.",
   "mandatory": false
 }
