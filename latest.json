@@ -1,7 +1,6 @@
 {
-  "version": "1.4.4",
-  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.4/GlideCue-Setup-1.4.4.exe",
-  "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.4.4/GlideCue-1.4.4.dmg",
-  "notes": "Cloud fix: GlideCue no longer uses up the free cloud allowance when it's left open with nobody watching. Also a Controller clock that keeps real time.",
+  "version": "1.5.0",
+  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.5.0/GlideCue-Setup-1.5.0.exe",
+  "notes": "A new look for the whole app: your scripts are the home screen, folders inside folders, a slim controller bar with side trays, and editing right where the talent reads.",
   "mandatory": false
 }
