@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
-  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.5.1/GlideCue-Setup-1.5.1.exe",
-  "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.5.1/GlideCue-1.5.1.dmg",
-  "notes": "Trackpad scrolling now glides smoothly, with the same heavy feel as the mouse wheel.",
+  "version": "1.5.2",
+  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.5.2/GlideCue-Setup-1.5.2.exe",
+  "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.5.2/GlideCue-1.5.2.dmg",
+  "notes": "Trackpad scrolling is lighter: it still glides smoothly, but a swipe moves the text further.",
   "mandatory": false
 }
