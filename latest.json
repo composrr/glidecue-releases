@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.5.0/GlideCue-Setup-1.5.0.exe",
-  "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.5.0/GlideCue-1.5.0.dmg",
-  "notes": "A new look for the whole app: your scripts are the home screen, folders inside folders, a slim controller bar with side trays, and editing right where the talent reads.",
+  "version": "1.5.1",
+  "url": "https://github.com/composrr/glidecue-releases/releases/download/v1.5.1/GlideCue-Setup-1.5.1.exe",
+  "urlMacos": "https://github.com/composrr/glidecue-releases/releases/download/v1.5.1/GlideCue-1.5.1.dmg",
+  "notes": "Trackpad scrolling now glides smoothly, with the same heavy feel as the mouse wheel.",
   "mandatory": false
 }
